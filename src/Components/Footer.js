@@ -53,7 +53,6 @@ export default function Footer() {
               <div className="col-lg-4">
                 <div className="row more-info">
                   <p>machadop1407@gmail.com</p>
-                  <p>+1 (778) 883-1407</p>
                   <p> Vancouver, British Columbia / Canada</p>
                 </div>
               </div>
