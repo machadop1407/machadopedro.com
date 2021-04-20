@@ -66,9 +66,8 @@ const AboutMe = () => {
             I can work on both the front-end and the back-end of any
             application. I am also experienced with building scalable projects,
             and managing large code bases. Currently, I am a student at the
-            University Of British Columbia pursuing a major in Computer Science
-            and Mathematics. On my spare time I work on various different
-            projects to build my skills and continue learning.
+            University Of British Columbia. On my spare time I work on various
+            different projects to build my skills and continue learning.
           </p>
         </div>
       </div>

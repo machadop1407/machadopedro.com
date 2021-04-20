@@ -22,10 +22,9 @@ function App() {
               <hr />
               <h1>Pedro Henrique Machado</h1>
               <p>
-                Computer Science and Mathematics Student @ University of British
-                Columbia. I love <b>coding </b>, and I aspire to become a great
-                developer. I currently code every day, and help thousands of
-                students through my youtube channel!
+                Student @ University of British Columbia. I love <b>coding </b>,
+                and I aspire to become a great developer. I currently code every
+                day, and help thousands of students through my youtube channel!
               </p>
               <hr />
               <div className="social-links">
